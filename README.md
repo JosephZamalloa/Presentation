@@ -3,13 +3,14 @@
 <h2>About me</h2> 
 <br/> 
 <br/>
- -I'm a web developer and a software engineer student at UPC in Perú
+<h4>
+ -I'm a web developer and a software engineer student at UPC in Perú <br/>
 
  -💬 You can contact me at josephzamalloa.c@gmail.com 
 
  -💼 My linkedin is www.linkedin.com/in/joseph-zamalloa-cupe
      you can see my CV there!
-
+</h4>
 <h3>I work with the following technologies:</h3>
 <br />
 <br />
