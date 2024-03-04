@@ -4,7 +4,7 @@
 <br/> 
 <br/>
 <h4>
- -I'm a web developer and a software engineer student at UPC in Perú
+ -I'm a Frontend developer, I 
  <br/>
 
  -💬 You can contact me at josephzamalloa.c@gmail.com 
@@ -16,7 +16,7 @@
 <h3>I work with the following technologies:</h3>
 <br />
 <br />
-<h3>My portfolio:</h3>
+<h3>My portfolio page:</h3>
 https://josephzamalloa.vercel.app
 <br />
 <br />
