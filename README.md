@@ -16,7 +16,7 @@
 <h3>I work with the following technologies:</h3>
 <br />
 <br />
-<h4>My portfolio</h4>
+<h3>My portfolio:</h3>
 https://josephzamalloa.vercel.app
 <br />
 <br />
